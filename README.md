@@ -4,6 +4,7 @@ como ingeniero en tecnologías computacionales (ITC), actualmente me encuentro c
 Planeo crear más cosas para practicar y mejorar mis habilidades, de modo que sea fácil implementar nuevos algoritmos en otros lenguajes de programación. Tales como Java, C# y PhP. 
 Te agradezco mucho el apoyo, en verdad me sirve mucho como inspiración para seguir programando, y seguir esforzandome en mis estudios para enforcar mis conocimientos y futuros proyectos hacia temas más académicos y laborales.
 ¡Muchas gracias!
+
 (EN): Hello! Welcome to my repository. Let me introduce myself, my name is José Riosmena, I am a student of the Tecnológico de Monterrey Campus Querétaro
 As a computer technology engineer (ITC), I am currently in my third semester of college. In this repository you will find some of my personal projects that I have developed during these three semesters, most of these projects are prototypes of old classic video games, such as: Tetris, Pong, Snake, among others. !Enjoy them!
 I plan to create more things to practice and improve my skills, so that it is easy to implement new algorithms in other programming languages. Such as Java, C# and PhP.
