@@ -6,7 +6,7 @@ Te agradezco mucho el apoyo, en verdad me sirve mucho como inspiración para seg
 ¡Muchas gracias!
 
 (EN): Hello! Welcome to my repository. Let me introduce myself, my name is José Riosmena, I am a student of the Tecnológico de Monterrey Campus Querétaro
-As a computer technology engineer (ITC), I am currently in my third semester of college. In this repository you will find some of my personal projects that I have developed during these three semesters, most of these projects are prototypes of old classic video games, such as: Tetris, Pong, Snake, among others. !Enjoy them!
+As a computer technology engineer (ITC), I am currently in my third semester of college. In this repository you will find some of my personal projects that I have developed during these three semesters, most of these projects are prototypes of old classic video games, such as: Tetris, Pong, Snake, among others. Enjoy them!
 I plan to create more things to practice and improve my skills, so that it is easy to implement new algorithms in other programming languages. Such as Java, C# and PhP.
 Thank you very much for your support, it really serves me a lot as an inspiration to continue programming, and to continue making an effort in my studies to reinforce my knowledge and future projects towards more academic and work topics.
 Thank you very much!
